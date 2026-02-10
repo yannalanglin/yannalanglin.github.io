@@ -1,0 +1,59 @@
+style.css
+h1{
+font-size: 30px;
+text-align: center;
+color: #131313
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+h2{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+body {
+  background-color: #000000;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  margin: 40px;
+}
+h3{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+body body {
+  background-color: #000000;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  margin: 40px;
+}
+
+.photo-profil {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+  border: 3px solid #de7471;
+}
+
+a { color : blue }
